@@ -1,3 +1,15 @@
 .opcion{
-    
+    border: 3px solid black;
+    min-width: 100px;
+    max-width: 280px;
+}
+.opcion p{
+    padding: 0;
+    margin: 0;
+}
+.centerin{
+    margin-left:auto;margin-right:auto;
+}
+.formulario{
+    height: 800px;
 }

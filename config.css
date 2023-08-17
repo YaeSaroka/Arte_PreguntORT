@@ -1,7 +1,13 @@
+html body{
+    background-color: #ffc2cc;
+}
 .opcion{
-    border: 3px solid black;
+    border: 1px solid black;
     min-width: 100px;
     max-width: 280px;
+    background-color: #f5aba1;
+    border-radius: 7px;
+    color: rgb(0, 0, 0);
 }
 .opcion p{
     padding: 0;
